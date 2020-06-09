@@ -1,40 +1,35 @@
 {
-  "name": "Citroen Jumpy",
-  "specifications": {
-    "seats": "6"
-  },
-  "city": "Uzwil",
-  "street": "Güntherstrasse",
-  "number": "66",
-  "price": {
-    "perKilometers": "2.2",
-    "perHour": "60"
-  },
-  
-  
-  "images": [
-    {
-        "original": "https://www.leasingmarkt.ch/wplm/wp-content/uploads/2019/06/citroen-jumpy-front.png",
-        "thumbnail": "https://www.leasingmarkt.ch/wplm/wp-content/uploads/2019/06/citroen-jumpy-front.png",
-    },
-    {
-        "original": "https://cdn.motor1.com/images/mgl/67gol/s1/citroen-eroffnet-elektro-nutzfahrzeug-offensive.jpg",
-        "thumbnail": "https://cdn.motor1.com/images/mgl/67gol/s1/citroen-eroffnet-elektro-nutzfahrzeug-offensive.jpg",
-    },
-    {
-        "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg",
-    }
-  ],
-  
-  "availableDates": {
-    "20200701": "1/0",
-    "20200702": "1/1"
-  },
-  
-  "additonalSpecifications": {
-    "vehicle": "lorem ipsum",
-    "owner": "dolor sit amet"
-  }
-
+   "name":"Citroen Jumpy",
+   "specifications":{
+      "seats":"6"
+   },
+   "city":"Uzwil",
+   "street":"Güntherstrasse",
+   "number":"66",
+   "price":{
+      "perKilometers":"2.2",
+      "perHour":"60"
+   },
+   "images":[
+      {
+         "original":"https://www.leasingmarkt.ch/wplm/wp-content/uploads/2019/06/citroen-jumpy-front.png",
+         "thumbnail":"https://www.leasingmarkt.ch/wplm/wp-content/uploads/2019/06/citroen-jumpy-front.png"
+      },
+      {
+         "original":"https://cdn.motor1.com/images/mgl/67gol/s1/citroen-eroffnet-elektro-nutzfahrzeug-offensive.jpg",
+         "thumbnail":"https://cdn.motor1.com/images/mgl/67gol/s1/citroen-eroffnet-elektro-nutzfahrzeug-offensive.jpg"
+      },
+      {
+         "original":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg"
+      }
+   ],
+   "availableDates":{
+      "20200701":"1/0",
+      "20200702":"1/1"
+   },
+   "additonalSpecifications":{
+      "vehicle":"lorem ipsum",
+      "owner":"dolor sit amet"
+   }
 }
