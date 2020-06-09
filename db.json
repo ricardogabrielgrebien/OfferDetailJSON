@@ -1,3 +1,4 @@
+{ "data":
 {
    "name":"Citroen Jumpy",
    "specifications":{
@@ -32,4 +33,5 @@
       "vehicle":"lorem ipsum",
       "owner":"dolor sit amet"
    }
+}
 }
