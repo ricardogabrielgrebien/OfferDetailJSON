@@ -4,9 +4,11 @@
       "specifications":{
          "seats":"6"
       },
-      "city":"Uzwil",
-      "street":"Güntherstrasse",
-      "number":"66",
+      "location":{
+         "city":"Uzwil",
+         "street":"Güntherstrasse",
+         "number":"66"
+      },
       "price":{
          "perKilometers":"2.2",
          "perHour":"60"
@@ -25,13 +27,13 @@
             "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg"
          }
       ],
-      "availableDates":{
-         "20200701":"1/0",
-         "20200702":"1/1"
-      },
       "additonalSpecifications":{
          "vehicle":"lorem ipsum",
          "owner":"dolor sit amet"
+      },
+      "availableDates":{
+         "20200701":"1/0",
+         "20200702":"1/1"
       }
    }
 }
