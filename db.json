@@ -2,15 +2,19 @@
    "data":{
       "name":"Citroen Jumpy",
       "seats":"6",
-      "location":{
-         "city":"Uzwil",
-         "street":"Güntherstrasse",
-         "number":"66"
-      },
-      "price":{
-         "perKilometers":"2.2",
-         "perHour":"60"
-      },
+      "city":"Uzwil",
+      "street":"Güntherstrasse",
+      "number":"66",
+      "price":[
+         {
+            "per": "kilometers",
+            "amount": "2.2"
+         },
+         {
+            "per": "hour",
+            "amount": "10"
+         }
+      ],
       "images":[
          {
             "original":"https://www.leasingmarkt.ch/wplm/wp-content/uploads/2019/06/citroen-jumpy-front.png",
@@ -25,10 +29,18 @@
             "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg/1200px-Citro%C3%ABn_Jumpy_Kastenwagen_HDi_125_%28II%2C_Facelift%29_%E2%80%93_Heckansicht%2C_5._September_2012%2C_Wuppertal.jpg"
          }
       ],
-      "additonalSpecifications":{
-         "vehicle":"lorem ipsum",
-         "owner":"dolor sit amet"
-      },
+      "additionalVehicleSpecs":[
+         {
+            "name": "baujahr",
+            "content": "2008"
+         }
+      ],
+      "additionalOwnerSpecs":[
+         {
+            "name": "Zertifkat",
+            "content": "Bester Bus 2012"
+         }
+      ],
       "availableDates":[
          {
             "date": "20200701",
